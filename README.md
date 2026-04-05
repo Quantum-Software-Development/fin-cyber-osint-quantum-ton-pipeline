@@ -38,7 +38,7 @@
 
 
 <!-- ========= START REPO TITLE ========= -->
-#  <p align="center"> X - 🔐 [Cybersecurity, Social Engineering and AI Security ]() / [Integrated Financial Intelligence, Cybersecurity & OSINT Pipeline with Quantum-Safe Encryption and Blockchain Integration]()
+#  <p align="center"> 3 - 🔐 [Cybersecurity, Social Engineering and AI Security ]() / [Project Integrated Financial Intelligence, Cybersecurity & OSINT Pipeline with Quantum-Safe Encryption and Blockchain Integration]()
 
 <br><br>
 <!-- ========= START REPO TITLE ========= -->
